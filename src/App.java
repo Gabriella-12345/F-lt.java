@@ -15,8 +15,21 @@ public class App {
         System.out.println("siffera 4" + siff[4]);
 
         System.out.println("Antal element i siff = "+ siff.length);
-        System.out.println((siff[0] + siff[1] + siff[2]+ siff[3] + siff[4])/siff.length);
+        System.out.println((siff[0] + siff[1] + siff[2]+ siff[3] + siff[4])/siff.length); 
 
-        // System.out.println("Fält 2");
+        System.out.println("Fält 2");
+        int []sif = new int [5];
+
+        sif[0] = 18;
+        sif[1] = 14;
+        sif[2] = 16;
+        sif[3] = 13;
+        sif[4] = 19; 
+        
+        System.out.println("siffera 1" + sif[0]);
+        System.out.println("siffera 2" + sif[1]);
+        System.out.println("siffera 3" + sif[2]);
+        System.out.println("siffera 4" + sif[3]);
+        System.out.println("siffera 4" + sif[4]);
     }
 }
