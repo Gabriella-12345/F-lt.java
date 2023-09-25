@@ -15,7 +15,8 @@ public class App {
         System.out.println("siffera 4" + siff[4]);
 
         System.out.println("Antal element i siff = "+ siff.length);
+        System.out.println((siff[0] + siff[1] + siff[2]+ siff[3] + siff[4])/siff.length);
 
-        System.out.println("Fält 2");
+        // System.out.println("Fält 2");
     }
 }
