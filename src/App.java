@@ -7,11 +7,15 @@ public class App {
         siff[2] = 6;
         siff[3] = 3;
         siff[4] = 9;
+
         System.out.println("siffera 1" + siff[0]);
         System.out.println("siffera 2" + siff[1]);
         System.out.println("siffera 3" + siff[2]);
         System.out.println("siffera 4" + siff[3]);
         System.out.println("siffera 4" + siff[4]);
+
         System.out.println("Antal element i siff = "+ siff.length);
+
+        System.out.println("Fält 2");
     }
 }
